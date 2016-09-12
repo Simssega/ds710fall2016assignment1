@@ -1,8 +1,11 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 Josh Ruehle
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+I am interested in data science because it seems so universally important in so many fields today.  I find it very interesting that as we are all creating and 
+interacting with data every day and as time passes that data could become very useful in many different parts of our everyday lives.
+When I decided I wanted to pursue a master's degree in data science I didn't have any programming experience.  I took a few community college classes last semester to prepare
+this program.
+My statistics experience is very similar to my programming experience.  I don't use it much in my current job but I majored in economics so I have a fair amount of classroom experience.
+One of the programming classes I took focused on python, I don't however have any experience with R.
+I am hoping to be able to understand what is possible when it comes to using python and R for data science.  I have a basic understanding of python but the application
+to data science is something I am really looking forward to learning in the coming months.  
+I feel a a little behind with some of the statistics because it's been a while since I have had to apply those concepts but I will study any additional information if necessary.
